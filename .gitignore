@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+env/
+
+# Model files (large - optional to push)
+*.pkl
+
+# OS
+.DS_Store
+Thumbs.db
