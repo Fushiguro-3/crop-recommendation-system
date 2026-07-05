@@ -46,6 +46,10 @@ crop_website/
 └── templates/
 └── index.html          ← Frontend
 
+## Screenshot
+<img width="511" height="655" alt="image" src="https://github.com/user-attachments/assets/06e540c6-cde7-410c-b1b8-60d10ce3f44b" />
+
+
 ## Note
 This was developed as a minor project for academic purposes.
 
